@@ -10,6 +10,7 @@ List of Dapps that are fully functional on Ethereum Testnets (Ropsten, Rinkeby, 
 | OpenSea                     | Goerli,Kovan,Rinkeby,Ropsten      
 | Uniswap                     | Goerli,Kovan,Rinkeby,Ropsten         
 | AAVE                        | Kovan        
-| Oasis/Maker DAO             | Goerli,Kovan      
+| Oasis/Maker DAO             | Goerli,Kovan   
+| Tornado-cash                | Goerli      
 
 
